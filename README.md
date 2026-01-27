@@ -2,6 +2,10 @@
 
 A personal machine learning project that detects **human emotions from text** using Natural Language Processing (NLP). The system classifies user-entered sentences into one of six emotions and provides predictions through a simple **Tkinter-based desktop interface**.
 
+<img width="741" height="639" alt="Screenshot 2026-01-27 230711" src="https://github.com/user-attachments/assets/82ecbe3d-7007-4fad-a971-69ff16759a05" />
+
+<img width="741" height="637" alt="Screenshot 2026-01-27 231004" src="https://github.com/user-attachments/assets/754b2f0f-6fd2-4cd1-9b0d-06cdd7e72b7f" />
+
 ---
 
 ## 📌 Project Overview
